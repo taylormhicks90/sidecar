@@ -1,5 +1,5 @@
 {
-    "name": "hammerstone/sidecar",
+    "name": "taylormhicks90/sidecar",
     "description": "A Laravel package to deploy Lambda functions alongside your main application.",
     "type": "library",
     "license": "MIT",
